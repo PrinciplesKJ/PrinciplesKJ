@@ -1,4 +1,4 @@
-# Krizan Jurinovic
+# Križan Jurinović
 Doctoral Researcher - DNA Nanotechnology - Imperial College London
 
 I work on enzyme-free, isothermal DNA replication: exponential amplification without product inhibition.
