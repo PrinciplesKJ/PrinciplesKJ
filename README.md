@@ -1,16 +1,23 @@
-## Hi there 👋
+# Krizan Jurinovic
+Doctoral Researcher - DNA Nanotechnology - Imperial College London
 
-<!--
-**PrinciplesKJ/PrinciplesKJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on enzyme-free, isothermal DNA replication: exponential amplification without product inhibition.
+My interests sit at the intersection of DNA nanotechnology, synthetic biology, and molecular diagnostics.
 
-Here are some ideas to get you started:
+## Focus
+- Enzyme-free nucleic-acid amplification and molecular templating
+- DNA strand displacement reaction design and kinetics
+- Quantitative assay development and fluorescence workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Wet lab: stopped-flow kinetics, fluorescence readouts, AFM, assay development
+- Computational: Python, chemical reaction network design, kinetic modelling, Git
+
+## Projects
+### Clearissa
+Desktop data analysis tool for fluorescence plate reader experiments, built for DNA strand displacement and FRET kinetics workflows.
+
+- Repository: https://github.com/principlesKJ/Clearissa_1.71
+
+## Contact
+- Email: k.jurinovic22@imperial.ac.uk
